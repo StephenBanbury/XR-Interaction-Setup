@@ -1004,6 +1004,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 5852665934979418482}
     - target: {fileID: 1034961684322922532, guid: d428623cbfc3fa841a3294ef4c3887c4, type: 3}
+      propertyPath: animationSpeed
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 1034961684322922532, guid: d428623cbfc3fa841a3294ef4c3887c4, type: 3}
       propertyPath: positionOffset.x
       value: 0.02
       objectReference: {fileID: 0}
@@ -1075,6 +1079,10 @@ PrefabInstance:
       propertyPath: followObject
       value: 
       objectReference: {fileID: 5852665934979418483}
+    - target: {fileID: 1034961684615199220, guid: d428623cbfc3fa841a3294ef4c3887c4, type: 3}
+      propertyPath: animationSpeed
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 1034961684615199220, guid: d428623cbfc3fa841a3294ef4c3887c4, type: 3}
       propertyPath: positionOffset.x
       value: 0.02
